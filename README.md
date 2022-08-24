@@ -30,3 +30,16 @@ Listen to 3th and 4th weeks of the course, repeated the basic terms and moments.
 - [To Origin and Beyond](/task_git_collaboration/git_branch2.png)
 
 Came out harder than expected, especially the To Origin and Beyond part.
+
+## Intro to HTML and CSS
+
+1. Intro to HTML and CSS on Coursera:
+
+- [Week 1](/task_html_css_intro/htmlweek.png)
+- [Week 2](/task_html_css_intro/cssweek.png)
+
+2. Learn HTML and CSS(Codecademy)
+
+- [Course](/task_html_css_intro/htmlcsscourse.png)
+
+Course from Codecademy was better and relevant than the course from Coursera
