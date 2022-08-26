@@ -43,3 +43,8 @@ Came out harder than expected, especially the To Origin and Beyond part.
 - [Course](/task_html_css_intro/htmlcsscourse.png)
 
 Course from Codecademy was better and relevant than the course from Coursera
+
+## Responsive Web Design
+
+- [Flexbox Froggy](/task_responsive_web_design/flexboxfroggy.png)
+- [Grid Garden](/task_responsive_web_design/gridgarden.png)
