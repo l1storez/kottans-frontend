@@ -48,3 +48,13 @@ Course from Codecademy was better and relevant than the course from Coursera
 
 - [Flexbox Froggy](/task_responsive_web_design/flexboxfroggy.png)
 - [Grid Garden](/task_responsive_web_design/gridgarden.png)
+
+## HTML & CSS Practice
+
+Awaits review
+
+## JavaScript Basics
+
+- [screenshots](/task_js_basics)
+
+As for me, I learn and memorize in practice and I lacked good examples and explanations because of this, the course quite difficult. The course, not JS
