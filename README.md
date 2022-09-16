@@ -51,7 +51,9 @@ Course from Codecademy was better and relevant than the course from Coursera
 
 ## HTML & CSS Practice
 
-Awaits review
+I thought it would be easier, but no. As I a plactical learner, it was easier at the end of the work in assignment, that at the beginning
+
+[Demo](https://l1storez.github.io/html-css-popup/) | [Code](https://github.com/l1storez/html-css-popup)
 
 ## JavaScript Basics
 
