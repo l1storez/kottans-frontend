@@ -60,3 +60,17 @@ I thought it would be easier, but no. As I a plactical learner, it was easier at
 - [screenshots](/task_js_basics)
 
 As for me, I learn and memorize in practice and I lacked good examples and explanations because of this, the course quite difficult. The course, not JS
+
+## Document Object Model
+
+- [Coursera](task_js_dom)
+
+*In progress...*
+
+## Building a Tiny JS World
+
+*In progress...*
+
+## Object Oriented JS
+
+*In progress...* 
