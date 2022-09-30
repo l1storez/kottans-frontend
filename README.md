@@ -65,6 +65,9 @@ As for me, I learn and memorize in practice and I lacked good examples and expla
 
 - [Coursera](task_js_dom)
 
+[code](https://github.com/l1storez/js-dom)
+[demo](https://l1storez.github.io/js-dom/)
+
 *In progress...*
 
 ## Building a Tiny JS World
